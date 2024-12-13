@@ -16,10 +16,6 @@
             background-color: #ff6f61;
             padding: 20px 0;
             text-align: center;
-        }<img src="septorhinoplasty-2-month-update-v0-zkr8w5i8s20b1.jpg" alt="Description of image" style="width:100%; max-width:600px;">
-        header h1 {
-            margin: 0;
-            font-size: 2.5em;
         }
         nav {
             margin: 20px 0;
@@ -51,7 +47,10 @@
             margin: 10px 0;
             border: 1px solid #ccc;
             border-radius: 5px;
-        }
+        }<img src="septorhinoplasty-2-month-update-v0-zkr8w5i8s20b1.jpg" alt="Description of image" style="width:100%; max-width:600px;">
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
         .contact-form button {
             background-color: #ff6f61;
             color: white;
